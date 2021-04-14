@@ -1,0 +1,4 @@
+<blocks>
+	<set xpath="/blocks/block[@name='pouredConcreteMaster']/property[@name='UpgradeRated.Rate']/@value">0</set>
+	<set xpath="/blocks/block[@name='pouredRConcreteMaster']/property[@name='UpgradeRated.Rate']/@value">0</set>
+</blocks>

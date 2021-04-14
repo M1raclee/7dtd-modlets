@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="ConcreteBlocksSpeedUp"/>
+		<Description value="Accelerates the drying time of concrete to the minimum time (About a minute for all blocks in the draw zone) "/>
+		<Author value="M1raclee"/>
+		<Version value="1.0" />
+		<Website value=""/>
+	</ModInfo>
+</xml>
